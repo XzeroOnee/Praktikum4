@@ -1,15 +1,15 @@
 # Praktikum9
 
 ## Latihan
-![gambar](screenshots/code1.png)
+![gambar](screenshots/code.png)
 ## Output
-![gambar](dokumentasi/la9.png)
+![gambar](screenshots/ss1.png)
 
 # Praktikum
 
-![gambar](dokumentasi/praktikum9.png)
+![gambar](screenshots/code2.png)
 ## Output
-![gambar](dokumentasi/hasil9.png)
+![gambar](screenshots/ss2.png)
 
 ## Flowchart
 ![gambar](dokumentasi/flow.png)
