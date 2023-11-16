@@ -1,7 +1,7 @@
 # Praktikum9
 
 ## Latihan
-![gambar](dokumentasi/latihan9.png)
+![gambar](screenshots/code1.png)
 ## Output
 ![gambar](dokumentasi/la9.png)
 
