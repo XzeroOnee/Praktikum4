@@ -1,11 +1,11 @@
 # Praktikum9
-## LATIHAN
 
+## Latihan
 ![gambar](dokumentasi/latihan9.png)
 ## Output
 ![gambar](dokumentasi/la9.png)
 
-# PRAKTIKUM
+# Praktikum
 
 ![gambar](dokumentasi/praktikum9.png)
 ## Output
