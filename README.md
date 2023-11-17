@@ -12,4 +12,4 @@
 ![gambar](screenshots/ss2.png)
 
 ## Flowchart
-![gambar](screenshots/ss3.png)
+![gambar](screenshots/flowchart.png)
